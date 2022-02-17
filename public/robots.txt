@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sn1per.com/sitemap.xml
